@@ -1,4 +1,4 @@
-<div class="min-h-screen flex flex-row bg-gray-100">
+<div class="min-h-screen flex flex-row bg-gray-100 shadow-sidesha">
     <div class="flex flex-col w-56 bg-white  overflow-hidden">
         <!-- rounded-r-3xl -->
       <!-- <div class="flex items-center justify-center h-20 shadow-md">

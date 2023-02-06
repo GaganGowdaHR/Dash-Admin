@@ -3,3 +3,18 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+.line {
+    margin-left: -41px;
+    width: 108%;
+    margin-top: 16px;
+    height: 2px;
+    background: repeating-linear-gradient(
+      to right,
+      transparent,
+      transparent 10px,
+      #B2B7C2 10px,
+      #B2B7C2 20px
+    );
+    /*10px transparent then 10px black -> repeat this!*/
+  }
